@@ -1,0 +1,6 @@
+﻿databaseChangeLog:
+  - include:
+      file: db/changelog/sql/0001_init_schema.sql
+  - include:
+      file: db/changelog/sql/0002_init_data.sql
+      
